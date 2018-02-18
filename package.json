@@ -1,0 +1,34 @@
+{
+  "name": "eslint-config-flow-header",
+  "version": "0.0.0",
+  "description": "Check existance of flow header comment.",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-plugin-flow-header": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjmehta/eslint-config-flow-header.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "flow",
+    "header",
+    "comment",
+    "plugin",
+    "flowtype",
+    "fix",
+    "format"
+  ],
+  "author": "Tejesh Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjmehta/eslint-config-flow-header/issues"
+  },
+  "homepage": "https://github.com/tjmehta/eslint-config-flow-header#readme"
+}
